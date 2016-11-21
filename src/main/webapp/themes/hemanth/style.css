@@ -49,6 +49,7 @@
 }
 .wm-app body {
   margin: 0;
+  background: grey;
 }
 .wm-app article,
 .wm-app aside,
